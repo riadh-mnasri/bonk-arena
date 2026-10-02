@@ -2,6 +2,8 @@
 
 [🇫🇷 Français](README.md) | 🇬🇧 English
 
+**Play online: https://bonk-arena-fawn.vercel.app**
+
 A cartoon 2D fighting game for kids, playable in the browser. Four silly fighters face off in a park wrestling ring. Nobody gets hurt: hits go "BONK!" and the loser ends up turned into a chicken, a snowman or a flowerpot.
 
 ## Features

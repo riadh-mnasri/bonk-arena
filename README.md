@@ -2,6 +2,8 @@
 
 🇫🇷 Français | [🇬🇧 English](README.en.md)
 
+**Jouer en ligne : https://bonk-arena-fawn.vercel.app**
+
 Jeu de combat 2D cartoon pour enfants, jouable dans le navigateur. Quatre combattants rigolos s'affrontent sur un ring de parc. Personne ne se fait mal : les coups font « BONK ! » et le perdant finit transformé en poulet, en bonhomme de neige ou en pot de fleurs.
 
 ## Fonctionnalités
